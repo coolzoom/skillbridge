@@ -20,9 +20,6 @@ env/*
 skillbridge/client/definitions*
 skillbridge/client/workspace.pyi
 
-test.py
-test.ipynb
-**/.ipynb_checkpoints/*
 
 *.so
 python_server.log

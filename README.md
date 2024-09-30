@@ -1,3 +1,11 @@
+# allegro test
+set telskill ;load the skill console
+
+load "Z:/Documents/GitHub/skillbridge/skillbridge/server/python_server.il"
+pyDumpFunctionDefinitions test.txt
+
+
+
 # Python-Skill Bridge
 
 [![PyPI version](https://badge.fury.io/py/skillbridge.svg)](https://badge.fury.io/py/skillbridge)
